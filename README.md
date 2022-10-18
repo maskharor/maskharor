@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskharor&show_icons=true&locale=en&layout=compact" alt="maskharor" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favianibra&show_icons=true&locale=en" alt="favianibra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maskharor&show_icons=true&locale=en" alt="maskkharor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favianibra&" alt="favianibra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maskharor&" alt="maskharor" /></p>
